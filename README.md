@@ -57,11 +57,11 @@ Watch the [demo video](https://youtu.be/KjdqR7LFotM) for a visual walkthrough of
 
 ## Screenshots
 
-![Demo_index](E:\NotepadClone\MainPackage\demoImages\index.jpeg)
-![Demo_file](E:\NotepadClone\MainPackage\demoImages\file.jpeg)
-![Demo_edit](E:\NotepadClone\MainPackage\demoImages\edit.jpeg)
-![Demo_view](E:\NotepadClone\MainPackage\demoImages\view.jpeg)
-![Demo_exit](E:\NotepadClone\MainPackage\demoImages\exit.jpeg)
+![Demo_index](index.jpeg)
+![Demo_file](file.jpeg)
+![Demo_edit](edit.jpeg)
+![Demo_view](view.jpeg)
+![Demo_exit](exit.jpeg)
 
 ## Contributing
 
