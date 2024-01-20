@@ -2,16 +2,17 @@
 
 ## Overview
 
-This Notepad Clone is a simple text editor developed in Java using the Swing library. It replicates basic functionalities of a notepad, allowing users to create, open, save, and edit text files with a user-friendly graphical interface.
+This Notepad Clone is a feature-rich text editor developed in Java using the Swing library. It provides essential functionalities, mimicking a notepad, with an intuitive graphical interface. Explore features such as file creation, opening, saving, and text manipulation in a user-friendly environment.
 
 ## Features
 
-- Create a new text document
-- Open existing text files
-- Save and save as functionality
-- Copy, paste, cut, and select all operations
-- Zoom in and zoom out for better readability
-- User-friendly graphical interface
+- **Text Operations:**
+  - Create, open, save, and edit text files effortlessly.
+  - Copy, paste, cut, and select all functionalities for efficient text manipulation.
+  - Zoom in and zoom out options to enhance readability.
+
+- **User Interface:**
+  - Intuitive graphical interface for a seamless user experience.
 
 ## Getting Started
 
@@ -34,24 +35,33 @@ This Notepad Clone is a simple text editor developed in Java using the Swing lib
 
 ## Usage
 
-1. **Creating a New Document:**
+1. **Creating and Opening Documents:**
    - Click on `File` in the menu.
    - Select `New` to create a new, empty document.
-
-2. **Opening an Existing Document:**
-   - Click on `File` in the menu.
    - Select `Open` and choose an existing text file.
 
-3. **Saving a Document:**
+2. **Saving Documents:**
    - Click on `File` in the menu.
-   - Select `Save` to save the changes to the current file.
+   - Select `Save` to save changes to the current file.
    - Select `Save As` to save the document with a new name.
 
-4. **Editing Operations:**
-   - Use the `Edit` menu for copy, paste, cut, and select all operations.
+3. **Text Editing:**
+   - Utilize the `Edit` menu for copy, paste, cut, and select all operations.
 
-5. **Zoom In/Out:**
-   - Use the `View` menu to zoom in or out for better readability.
+4. **Zoom Functionality:**
+   - Use the `View` menu to zoom in or out for improved readability.
+
+## Demo Video
+
+Watch the [demo video](https://youtu.be/KjdqR7LFotM) for a visual walkthrough of the Notepad Clone.
+
+## Screenshots
+
+![Demo_index](E:\NotepadClone\MainPackage\demoImages\index.jpeg)
+![Demo_file](E:\NotepadClone\MainPackage\demoImages\file.jpeg)
+![Demo_edit](E:\NotepadClone\MainPackage\demoImages\edit.jpeg)
+![Demo_view](E:\NotepadClone\MainPackage\demoImages\view.jpeg)
+![Demo_exit](E:\NotepadClone\MainPackage\demoImages\exit.jpeg)
 
 ## Contributing
 
