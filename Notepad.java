@@ -112,6 +112,8 @@ Notepad extends JFrame implements ActionListener{
         setVisible(true);
 
 
+
+
     }
 
     public static void main(String[] args) {
@@ -201,6 +203,15 @@ Notepad extends JFrame implements ActionListener{
         if (result == JOptionPane.YES_OPTION) {
             // Perform any cleanup or additional actions before exiting
             System.exit(0);
+        }else{
+            setDefaultCloseOperation(DO_NOTHING_ON_CLOSE); // Set default close operation
+
+            addWindowListener(new WindowAdapter(){
+                @Override
+                public void windowClosing(WindowEvent e){
+                    exitApplication();
+                }
+            });
         }
     }
 }
