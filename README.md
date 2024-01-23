@@ -55,14 +55,6 @@ This Notepad Clone is a feature-rich text editor developed in Java using the Swi
 
 Watch the [demo video](https://youtu.be/KjdqR7LFotM) for a visual walkthrough of the Notepad Clone.
 
-## Screenshots
-
-![Demo_index](index.jpeg)
-![Demo_file](file.jpeg)
-![Demo_edit](edit.jpeg)
-![Demo_view](view.jpeg)
-![Demo_exit](exit.jpeg)
-
 ## Contributing
 
 If you'd like to contribute to this project, feel free to fork the repository and submit a pull request.
